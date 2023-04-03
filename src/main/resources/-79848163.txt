@@ -1,0 +1,7 @@
+HASHCODE: -79848163
+DATE: 16-05-2022
+TIME: 11:24:56
+CLIENT: maria
+PRODUCTS: 
+masina  COMPOSED OF Tuscan Bean and Swiss Chard Soup  test  Scallop and Shrimp Creole   4.375 1649.0 98.0 107.0 3521.0 133.0
+TOTAL PRICE: 133.0

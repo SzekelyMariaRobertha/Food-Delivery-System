@@ -1,0 +1,7 @@
+admin0,qjtjdb,ADMINISTRATOR
+employee0,cnx,EMPLOYEE
+client0,sptv,CLIENT
+maria,bmjob,CLIENT
+alina,nbsjb,CLIENT
+client,nbnb,CLIENT
+maria,qtt,CLIENT
