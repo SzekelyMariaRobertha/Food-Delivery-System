@@ -21,41 +21,43 @@ The purpose of Design by Contract is to allow programmers to "incorporate softwa
 
 ## Visuals
 ### Login page
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
+<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="250" height="200">
 
 ### Admin page
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
-![2](https://user-images.githubusercontent.com/93877610/232523560-14bba720-fe19-46fe-8a16-7d3b5c0791c6.png)
+<img src="https://user-images.githubusercontent.com/93877610/232523560-14bba720-fe19-46fe-8a16-7d3b5c0791c6.png" width="400" height="250">
 
 Import products
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
-![9](https://user-images.githubusercontent.com/93877610/232523901-e8bd1ca1-36b3-45b8-80d7-30f0c9536e2d.png)
-![10](https://user-images.githubusercontent.com/93877610/232523906-441d5287-288a-4049-a19d-fa0a0dcb94da.png)
+<div allign="center">
+  <img src="https://user-images.githubusercontent.com/93877610/232523901-e8bd1ca1-36b3-45b8-80d7-30f0c9536e2d.png" width="320" height="200">
+  <img src="https://user-images.githubusercontent.com/93877610/232523906-441d5287-288a-4049-a19d-fa0a0dcb94da.png" width="320" height="200">
+ </div>
 
 Create composite product
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
-![3](https://user-images.githubusercontent.com/93877610/232524027-8b8ceb51-6f1d-4d26-afd7-45efb66430ba.png)
+<div allign="center">
+  <img src="https://user-images.githubusercontent.com/93877610/232524027-8b8ceb51-6f1d-4d26-afd7-45efb66430ba.png" width="320" height="200">
+</div>
 
 ### Employee page
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
-![7](https://user-images.githubusercontent.com/93877610/232523626-103fad77-9f93-4c52-99d8-bcf49fb79dbd.png)
+<div allign="center">
+  <img src="https://user-images.githubusercontent.com/93877610/232523626-103fad77-9f93-4c52-99d8-bcf49fb79dbd.png" width="320" height="200">
+</div>
 
 Notifications
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
-![8](https://user-images.githubusercontent.com/93877610/232524344-1a72eaca-d737-4c08-b046-da1aaa24c6b5.png)
-
+<div allign="center">
+  <img src="https://user-images.githubusercontent.com/93877610/232524344-1a72eaca-d737-4c08-b046-da1aaa24c6b5.png" width="320" height="200">
+</div>
 
 ### Client page
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
-
-![4](https://user-images.githubusercontent.com/93877610/232523672-efe8baa8-22ac-449d-b428-7838eb2c367b.png)
+<div allign="center">
+  <img src="https://user-images.githubusercontent.com/93877610/232523672-efe8baa8-22ac-449d-b428-7838eb2c367b.png" width="320" height="200">
+</div>
 
 Menu
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
-![5](https://user-images.githubusercontent.com/93877610/232524118-71fd83d3-b984-45ea-a31c-e65e971f648b.png)
+<div allign="center">
+  <img src="https://user-images.githubusercontent.com/93877610/232524118-71fd83d3-b984-45ea-a31c-e65e971f648b.png" width="400" height="300">
+</div>
 
 Order
-<img src="https://user-images.githubusercontent.com/93877610/232523246-5cc20fe5-6e01-4da8-856a-bd7f8994565c.png" width="320" height="200">
-![6](https://user-images.githubusercontent.com/93877610/232524237-bceb4405-f3f2-4d08-bbc6-1cb93c20e0a9.png)
-
+<div allign="center">
+  <img src="https://user-images.githubusercontent.com/93877610/232524237-bceb4405-f3f2-4d08-bbc6-1cb93c20e0a9.png" width="400" height="300">
+</div>
